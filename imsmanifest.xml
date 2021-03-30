@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">Fix_Module 2</langstring>
+          <langstring xml:lang="x-none">Fix_Module 2_update</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="Fix_Module_2_ORG">
-    <organization identifier="Fix_Module_2_ORG">
-      <title>Fix_Module 2</title>
+  <organizations default="Fix_Module_2_update_ORG">
+    <organization identifier="Fix_Module_2_update_ORG">
+      <title>Fix_Module 2_update</title>
       <item identifier="glossary_template_SCO" isvisible="true" identifierref="__6cyiOgfFPYm_course_id_RES">
-        <title>Fix_Module 2</title>
+        <title>Fix_Module 2_update</title>
       </item>
     </organization>
   </organizations>
@@ -124,7 +124,7 @@
       <file href="mobile/5ylFwblm1zu_DX1216_DY1216_CX608_CY562.png" />
       <file href="mobile/5ylFwblm1zu_DX1216_DY1216_CX608_CY562.swf" />
       <file href="story_content/5wIzOSX3udS_44100_96_0.mp3" />
-      <file href="story_content/video_6rYZWTwlmnB_18_96_746x420.mp4" />
+      <file href="story_content/video_65kcsJfuPGo_18_96_746x420.mp4" />
       <file href="story_content/6nu6RpDsWX3_44100_96_0.mp3" />
       <file href="story_content/6BW5xY1zD8b_DX116_DY116.swf" />
       <file href="mobile/6BW5xY1zD8b_DX116_DY116_CX58_CY58.png" />
